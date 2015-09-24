@@ -8,8 +8,10 @@
     业界标准电脑手机都支持，需要找合适的供应商，我用了greenvpn 不好用老连不上
 3. Shadowsocks  
     还不错，需要自己的服务器，或者找账号。 iPhone 需要安装app,而且要从国外商店才能下载app 
-4. SSHD  
-    linux/osx 比较 方便 ，手机上不方便用啊
+4. SSH tunnel
+    linux/osx 比较 方便 ，手机上不方便用啊  
+    在本地创建socks5 proxy 
+    `SSH -qTfnN -D port remotehost`
 5. stunnel+squid  
   服务器配置比较麻烦，可以使用标准的 http proxy ,电脑手机都支持
 6. socks / http proxy  
