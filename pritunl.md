@@ -1,6 +1,7 @@
 #pritunl install in centos7  
-参考[https://github.com/pritunl/pritunl] (https://github.com/pritunl/pritunl)
-
+参考 [https://github.com/pritunl/pritunl](https://github.com/pritunl/pritunl)
+参考 [http://blog.csdn.net/xxxl/article/details/40023265](http://blog.csdn.net/xxxl/article/details/40023265)
+1. 安装 mongo & pritunl
 ```
 sudo yum -y install epel-release
 $ nano /etc/yum.repos.d/pritunl.repo
@@ -14,4 +15,9 @@ $ gpg --keyserver hkp://keyserver.ubuntu.com --recv-keys CF8E292A
 $ gpg --armor --export CF8E292A > key.tmp; rpm --import key.tmp; rm -f key.tmp
 $ yum install pritunl mongodb-server
 $ systemctl start mongod pritunl
-$ systemctl enable mongod pritunl```
+$ systemctl enable mongod pritunl
+```
+
+2.运行 https://<ip>:9700/ 用 pritunl /pritunl 登录
+3. addServer & add user
+4. 
