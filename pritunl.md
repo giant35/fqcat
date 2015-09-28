@@ -23,7 +23,7 @@ $ systemctl enable mongod pritunl
 3. addServer & add user  ,然后在user 中get  key (.ovpn 文件)
 
 ##客户端  
-*. iOS手机上安装 openvpn app 并下载  ovpn 文件  
-*. OSX 安装 tunnelblick.ovpn  
+* iOS手机上安装 openvpn app 并下载  ovpn 文件  
+* OSX 安装 tunnelblick.ovpn  
 
 
