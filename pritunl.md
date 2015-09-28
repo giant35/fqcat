@@ -19,9 +19,11 @@ $ systemctl start mongod pritunl
 $ systemctl enable mongod pritunl
 ```
 
-2.运行 https://<ip>:9700/ 用 pritunl /pritunl 登录  
-3. addServer & add user  ,然后在user 中get 
+2. 运行 https://<ip>:9700/ 用 pritunl /pritunl 登录  
+3. addServer & add user  ,然后在user 中get  key (.ovpn 文件)
 
-##客户端
-1. 手机上安装 openvpn app 并下载 
+##客户端  
+*. iOS手机上安装 openvpn app 并下载  ovpn 文件  
+*. OSX 安装 tunnelblick.ovpn  
+
 
