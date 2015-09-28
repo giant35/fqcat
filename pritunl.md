@@ -1,6 +1,7 @@
 #pritunl install in centos7  
 参考 [https://github.com/pritunl/pritunl](https://github.com/pritunl/pritunl)
 参考 [http://blog.csdn.net/xxxl/article/details/40023265](http://blog.csdn.net/xxxl/article/details/40023265)
+##服务端
 1. 安装 mongo & pritunl
 ```
 sudo yum -y install epel-release
@@ -18,6 +19,9 @@ $ systemctl start mongod pritunl
 $ systemctl enable mongod pritunl
 ```
 
-2.运行 https://<ip>:9700/ 用 pritunl /pritunl 登录
-3. addServer & add user
-4. 
+2.运行 https://<ip>:9700/ 用 pritunl /pritunl 登录  
+3. addServer & add user  ,然后在user 中get 
+
+##客户端
+1. 手机上安装 openvpn app 并下载 
+
