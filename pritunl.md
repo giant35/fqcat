@@ -1,4 +1,4 @@
-#pritunl install in centos7  
+#安装pritunl 
 参考 [https://github.com/pritunl/pritunl](https://github.com/pritunl/pritunl)
 参考 [http://blog.csdn.net/xxxl/article/details/40023265](http://blog.csdn.net/xxxl/article/details/40023265)
 ##服务端
@@ -23,6 +23,7 @@ $ systemctl enable mongod pritunl
 3. addServer & add user  ,然后在user 中get  key (.ovpn 文件)
 
 ##客户端  
+    pritunl 采用的是 openvpn 
 * iOS手机上安装 openvpn app 并下载  ovpn 文件  
 * OSX 安装 tunnelblick.ovpn  
 
