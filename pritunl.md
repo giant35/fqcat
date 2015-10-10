@@ -1,7 +1,7 @@
 #安装pritunl 
 参考 [https://github.com/pritunl/pritunl](https://github.com/pritunl/pritunl)
 参考 [http://blog.csdn.net/xxxl/article/details/40023265](http://blog.csdn.net/xxxl/article/details/40023265)
-##服务端
+##服务端(CENTOS 7)
 1. 安装 mongo & pritunl  
 ```
 sudo yum -y install epel-release
