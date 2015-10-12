@@ -17,6 +17,11 @@
 6. socks / http proxy  
   好像是不行的，被墙了
 
+##主机试用  
+1. [Aliyun.com](aliyun.md) (支持支付宝)
+2. [DigitalOcean.com](digitalocean.md)  （不支持支付宝）
+3. [bandwagonhost.com](bandwagon.md) (支持支付宝)
+
 ##[pritunl配置](pritunl.md)
 
 
