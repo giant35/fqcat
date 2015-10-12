@@ -9,8 +9,8 @@
 ##San Francisco 1 
 .ping 
 ```
-165 packets transmitted, 158 packets received, 4.2% packet loss
-round-trip min/avg/max/stddev = 158.028/219.563/355.426/37.062 ms
+2144 packets transmitted, 2051 packets received, 4.3% packet loss
+round-trip min/avg/max/stddev = 156.122/215.135/417.087/41.483 ms
 ```
 
 
