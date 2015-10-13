@@ -21,7 +21,7 @@
 6. socks / http proxy  
   好像是不行的，被墙了
 1. Lantern   
-  我这是用不了，使用倒是简单
+  最新版又可以用了，有段时间我这是用不了，使用倒是简单
 1. Psiphon (win+android)
   没试过
 
