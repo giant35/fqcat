@@ -12,7 +12,7 @@
     linux/osx 比较 方便 ，手机上不方便用啊  
     在本地创建socks5 proxy 
     `SSH -qTfnN -D port remotehost`
-1. GAE  
+1. Goagent 之类  
   安装比较复杂，一般技术人员才行吧，而且手机上好像是没法用
 2. TOR  
   我这用不了
