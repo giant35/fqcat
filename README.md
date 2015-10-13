@@ -1,13 +1,15 @@
 # fqcat 翻墙猫  
 ##翻墙的几种方式
 
-1. web proxy  (全平台)
+1. web proxy  (全平台)  
   最简单的方式，不过经常被封，而且效果不稳定
   如：http://move.run
-2. VPN  (全平台)
+2. VPN  (全平台)  
     业界标准电脑手机都支持，需要找合适的供应商，我用了greenvpn 不好用老连不上
 3. Shadowsocks  
     还不错，需要自己的服务器，或者找账号。 iPhone 需要安装app,而且要从国外商店才能下载app （不知道为啥我在iPhone上也上不了网）
+1. GAE  
+  安装比较复杂，一般技术人员才行吧，而且手机上好像是没法用
 4. SSH tunnel （电脑）
     linux/osx 比较 方便 ，手机上不方便用啊  
     在本地创建socks5 proxy 
