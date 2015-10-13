@@ -8,12 +8,14 @@
     业界标准电脑手机都支持，需要找合适的供应商，我用了greenvpn 不好用老连不上
 3. Shadowsocks  
     还不错，需要自己的服务器，或者找账号。 iPhone 需要安装app,而且要从国外商店才能下载app （不知道为啥我在iPhone上也上不了网）
-1. GAE  
-  安装比较复杂，一般技术人员才行吧，而且手机上好像是没法用
 4. SSH tunnel （电脑）
     linux/osx 比较 方便 ，手机上不方便用啊  
     在本地创建socks5 proxy 
     `SSH -qTfnN -D port remotehost`
+1. GAE  
+  安装比较复杂，一般技术人员才行吧，而且手机上好像是没法用
+2. TOR  
+  我这用不了
 5. stunnel+squid  
   服务器配置比较麻烦，可以使用标准的 http proxy ,电脑手机都支持
 6. socks / http proxy  
@@ -22,6 +24,7 @@
   我这是用不了，使用倒是简单
 1. Psiphon (win+android)
   没试过
+
 
 ##主机试用  
 1. [Aliyun.com](aliyun.md) (支持支付宝)
