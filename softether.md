@@ -17,6 +17,7 @@ make
 ./vpnserver start
 echo '服务端安装好 请通过softether 管理工具配置'
 ```
+digitalocean vpnserver start 后造成网络不正常
 
 
 ##参考:  
