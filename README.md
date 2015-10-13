@@ -20,6 +20,8 @@
   好像是不行的，被墙了
 1. Lantern   
   我这是用不了，使用倒是简单
+1. Psiphon (win+android)
+  没试过
 
 ##主机试用  
 1. [Aliyun.com](aliyun.md) (支持支付宝)
