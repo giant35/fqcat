@@ -1,9 +1,11 @@
 #softether
 
 -----
-[docker 方式](https://hub.docker.com/r/frosquin/softether/)  
-  bandwagon不支持docker 
-  digitalOcean 运行后，用softether管理工具连 造成网络无法连接
+docker 方式  
+https://medium.com/@gargar454/easiest-way-to-setup-your-own-vpn-with-a-single-docker-command-and-run-it-for-free-in-the-cloud-e792f581526c  
+[docker 方式](https://hub.docker.com/r/frosquin/softether/) 
+bandwagon不支持docker  
+
 ----
 ##centos7 install softether  
 
@@ -17,10 +19,15 @@ make
 ./vpnserver start
 echo '服务端安装好 请通过softether 管理工具配置'
 ```
-digitalocean vpnserver start 后造成网络不正常
+
 
 ##ios 
 使用 L2TP
+
+## digitalOcean 运行正常？
+
+##google cloud  
+  没安装成功，连上也没有反应
 
 
 ##参考:  
