@@ -27,6 +27,8 @@
 round-trip min/avg/max/stddev = 80.674/190.163/689.938/82.176 ms
 ```
 需要使用 sudo 运行
+ipsec 在/usr/local/sbin
+sudo /usr/local/sbin/ipsec start
 
 
 
