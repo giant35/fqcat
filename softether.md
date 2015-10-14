@@ -19,8 +19,13 @@ echo '服务端安装好 请通过softether 管理工具配置'
 ```
 digitalocean vpnserver start 后造成网络不正常
 
+##ios 
+使用 L2TP
+
 
 ##参考:  
-http://mawenjian.net/p/1281.html
+http://mawenjian.net/p/1281.html  
+http://www.freebuf.com/tools/40418.html  
+
   
   
