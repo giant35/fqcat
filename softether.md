@@ -27,7 +27,8 @@ echo '服务端安装好 请通过softether 管理工具配置'
 ## digitalOcean 运行正常？
 
 ##google cloud  
-  没安装成功，连上也没有反应
+  没安装成功，连上也没有反应  
+  通过docker 方式启动时 报 `iptables v1.4.21: can't initialize iptables table `filter': Permission denied (you must be root)`
 
 
 ##参考:  
