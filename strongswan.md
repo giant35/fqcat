@@ -21,7 +21,9 @@
 ```
 
 1. google cloud computer ok   
-(g-micro) zone:asia-east1-c  (网速不错)
+(g-micro) zone:asia-east1-c  (网速不错) 是 KVM 选 centos6
+
+
 ```
 589 packets transmitted, 575 packets received, 2.4% packet loss
 round-trip min/avg/max/stddev = 80.674/190.163/689.938/82.176 ms
