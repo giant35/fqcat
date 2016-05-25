@@ -2,7 +2,7 @@
 
 ##安装
 1. centos6 / ubuntu  
-参考 http://quericy.me/blog/699  
+参考 http://quericy.me/blog/699   https://github.com/quericy/one-key-ikev2-vpn 
 在bandwagon安装成功
 
 安装成功后默认账号 
