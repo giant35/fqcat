@@ -21,7 +21,7 @@
 ```
 
 1. google cloud computer ok   
-(g-micro) zone:asia-east1-c  (网速不错) 是 KVM 选 centos6
+(g-micro) zone:asia-east1-c  (网速不错) 是 KVM 选 centos6，有时连不上的话重启下 strongswan `/usr/local/sbin/ipsec restart`
 
 
 ```
