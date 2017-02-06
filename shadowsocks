@@ -1,0 +1,23 @@
+参考
+http://shadowsocks.org
+
+
+## 服务器   
+采用 go  方式安装
+1. 安装 go   
+```
+wget 'go***.tar.gz'
+tar xvzf go***.tar.gz #记住这目录下边要用
+```
+
+
+2. 安装 shadowsocks server   
+```
+mkdir shadowsocks 
+cd shadowsocks
+export GOPATH=`pwd`
+****/go/bin/go get github.com/shadowsocks/shadowsocks-go/cmd/shadowsocks-server
+```
+
+## 客户端   
+ios 采用 wingy 
